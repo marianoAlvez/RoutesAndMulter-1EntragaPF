@@ -4,16 +4,19 @@
 
 ## Descripción de archivos
 
-routes/productsRoutes.js: Contiene las rutas relacionadas con los productos.
-routes/cartsRoutes.js: Contiene las rutas relacionadas con los carritos.
-managers/productsManager.js: Contiene la lógica de negocio relacionada con los productos.
-managers/cartsManager.js: Contiene la lógica de negocio relacionada con los carritos.
-models/Product.js: Define el modelo de datos para los productos.
-models/Cart.js: Define el modelo de datos para los carritos.
-data/products.json: Almacena los datos de los productos.
-data/carts.json: Almacena los datos de los carritos.
-utils/uuidGenerator.js: Contiene la función para generar UUIDs únicos.
-app.js: Archivo principal donde se configura el servidor y se montan las rutas.
+`routes/productsRoutes.js: ` Contiene las rutas relacionadas con los productos.
+
+`routes/cartsRoutes.js: ` Contiene las rutas relacionadas con los carritos.
+
+`managers/productsManager.js: ` Contiene la lógica de negocio relacionada con los productos.
+
+`managers/cartsManager.js: ` Contiene la lógica de negocio relacionada con los carritos.
+
+`data/products.json: ` Almacena los datos de los productos.
+
+`data/carts.json: ` Almacena los datos de los carritos.
+
+`app.js: ` Archivo principal donde se configura el servidor y se montan las rutas.
 
 
 ## Ejecución del Proyecto
